@@ -1,0 +1,14 @@
+.recipeMenuStyle{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.menuItemStyle{
+    width: 350px;
+    height: 350px;
+    
+   
+}
